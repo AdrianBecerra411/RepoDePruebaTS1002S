@@ -12,3 +12,5 @@ bla bla bla
 $x_2 = x^2$
 
 more info
+
+Alguien mas cambio el readme
